@@ -1,0 +1,365 @@
+
+/*BAckground image*/
+main{
+background-image: url('WhatsApp Image 2025-01-24 at 12.31.00_452f3ed8.jpg');
+}
+
+/*styling header*/
+header {    
+    text-align: center;
+    background-image:url('OIP.jpg') ;
+    color: aliceblue;
+    background-color: #0f3d7a;
+    font-family: "Eater", sans-serif;
+    color: rgb(255, 208, 0);
+    align-content: center;
+    height: 90px;
+    background-size: cover;
+    margin: 0%;
+    border: 0%;
+    padding: 0%;
+}
+
+/*styling header's first letter H*/
+header::first-letter {
+    font-size: 2em;
+    font-weight: auto;
+}
+/*styling header's sixth letter P*/
+header .sixth-letter{
+    font-size: 2em;
+}
+/*styling header's 12th letter S*/
+header .twelth-letter{
+    font-size: 2em;
+}
+/*adjusting vedio song position*/
+.vedioSong{
+    justify-content: center;
+    display: flex;
+    
+}
+
+
+  /*stlyinng para1 line1*/
+
+.para1::first-line{
+    color: rgb(141, 211, 188);
+    size: 1.4em;
+    font-family:"Eater", sans-serif ;
+
+}
+ /*stlyinng para1 line1*/
+.start{
+   color: rgb(181, 159, 133);
+   font-size: 2.3em;
+}
+ /*stlyinng para1 line1 letter 1*/
+ .para1::first-letter{
+    font-family: "Barriecito", sans-serif;
+    font-size: 2em;
+    font-weight: bolder;
+ }
+  /*stlyinng para1 line2*/
+ .para1-line2{
+    font-family:"Concert One",sans-serif ;
+    font-size: 1.4em;
+    color: rgb(189, 127, 47);
+    
+ }
+  /*stlyinng para1 line3*/
+ .para1-line3{
+    font-family:"Grape Nuts", sans-serif ;
+    color: rgb(168, 135, 176);
+
+ }
+  /*stlyinng para1 line4*/
+ .para1-line4{
+    font-family:"Bowlby One SC",sans-serif ;
+    color:rgb(182, 204, 120)
+ }
+ /*stlyinng para2 line1*/
+ .para2::first-line{
+    font-family: "Nabla", sans-serif;
+    background-color:#104a6e;
+    color: rgb(171, 147, 104);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ 
+}
+ /*stlyinng para2 line2*/
+.para2-line2{
+    color: rgb(39, 255, 183);
+    font-family:"Grape Nuts", sans-serif ;
+    font-size: 1.1em;
+
+}
+ /*stlyinng para2 line3*/
+.para2-line3{
+    font-family:"Londrina Shadow",sans-serif ;
+    color: rgb(140, 183, 153);
+    font-size: 1.2em;
+    font-weight: bold;
+    font-style: normal;
+
+}
+ /*stlyinng para2 line3*/
+.para2-line3 span{
+    color: #b98b8b;
+    size: .9em;
+}
+ /*stlyinng para2 line4*/
+ .para2-line4{
+    font-family: "Six Caps",sans-serif;
+    font-size: 1.8em;
+    font-weight: bold;
+    background-color: bisque;
+
+ }
+ /*stlyinng para3 line1*/
+ .para3::first-line{
+   color:#b98b8b;
+   font-size: 3em;
+   font-weight: lighter;
+ }
+  /*stlyinng para3 line2*/
+ .para3-line2{
+    font-family:"Big Shoulders Stencil Display",sans-serif ;
+    color: rgb(111, 73, 3);
+    font-size: 2.2em;
+    font-weight: bold;
+    font-style: normal;
+
+ }
+  /*stlyinng para3 line3*/
+ .para3-line3{
+    font-family: "Londrina Shadow",sans-serif;
+    font-size: 1.2em;
+    color: #b98b8b;
+ }
+  /*stlyinng para3 line4*/
+ .para3-line4{
+    font-family:"Nabla",sans-serif ;
+    font-size: .9em;
+
+ }
+ /*stlyinng para4 line1 letter one*/
+.para4::first-letter{
+   font-size: 3.2em;
+   color: black;
+   background-color: beige;
+}
+ /*stlyinng para4 line1*/
+.para4::first-line{
+   color:#104a6e;
+   font-size: 1.1em;
+
+}
+ /*stlyinng para4 line2*/
+ 
+ .para4-line2{
+    font-family: "Mouse Memoirs",sans-serif;
+    font-weight: lighter;
+color: rgb(8, 89, 160);
+   
+ }
+  /*stlyinng para4 line3*/
+ .para4-line3{
+    font-family: "Six Caps";
+    color: rgb(163, 181, 211);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+
+
+ }
+  /*stlyinng para4 line4 */
+ .para4-line4{
+    font-family: "Kablammo",sans-serif;
+    color: wheat;
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+ /*stlyinng para1 line1 first letter*/
+.para5::first-letter{
+   color: antiquewhite;
+   font-size: .9em;
+
+}
+ /*stlyinng para5 line1*/
+.para5::first-line{
+   font-family:"Kablammo",sans-serif ;
+   
+}
+ /*stlyinng para5 line2*/
+ .para5-line2{
+    font-family:"Caesar Dressing",sans-serif;
+    color: rgb(113, 167, 105);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para5 line3*/
+ .para5-line3{
+    font-family:"Barriecito",sans-serif ;
+    color: rgb(101, 71, 109);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para5 line4*/
+ .para5-line4{
+    font-family: "Eater",sans-serif;
+    color: rgb(231, 252, 180);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para5 line5*/
+ .para5-line5{
+    font-family: "Londrina Shadow", sans-serif;
+    color: rgb(45, 0, 117);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+
+ /*stlyinng para6 line2*/
+ .para6-line2{
+    font-family: "Grape Nuts",sans-serif;
+    color: wheat;
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para6 line3*/
+ .para6-line3{
+   
+    font-family: "Workbench",sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para6 line4*/
+ .para6-line4{
+    font-family: "Kablammo",sans-serif;
+    color: rgb(72, 83, 118);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+ 
+  /*stlyinng para7 line2*/
+ .para7-line2{
+    font-family: "Mouse Memoirs",sans-serif;
+    color: rgb(216, 108, 0);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para7 line3*/
+ .para7-line3{
+    font-family:"Big Shoulders Stencil Display",sans-serif ;
+    color: rgb(10, 103, 85);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para7 line4*/
+ .para7-line4{
+   color: rgb(255, 255, 255);
+   font-size: 2em;
+   font-weight: bold;
+   font-style: normal;
+    font-family: "Bowlby One SC",sans-serif;
+ }
+ /*stlyinng para8 line1*/
+ .para8::first-line{
+    font-family:"Caesar Dressing",sans-serif ;
+    color: rgb(0, 118, 96);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+
+ }
+  /*stlyinng para8 line1 first letter*/
+ .para8::first-letter{
+    font-weight: bolder;
+    font-size: 2em;
+    color: aqua;
+ }
+  /*stlyinng para8 line2*/
+ .para8-line2{
+    font-family:"Eater",sans-serif ;
+    color: rgb(33, 4, 255);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para8 line3*/
+ .para8-line3{
+    font-family:"Londrina Shadow",sans-serif;
+    color: rgb(255, 166, 0);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para8 line4*/
+ .para8-line4{
+    font-family: "Eater",sans-serif;
+    color: rgb(125, 201, 255);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para9 line1*/
+
+ .para9::first-line{
+   font-style: italic;
+   font-size: 2.1em;
+   font-weight: bold;
+   color: azure;
+ }
+  /*stlyinng para9 line2*/
+ .para9-line2{
+    font-family: "Workbench",sans-serif;
+    color: rgb(196, 192, 183);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para9 line3*/
+ .para9-line3{
+    font-family: "Eater",sans-serif;
+    color: wheat;
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para9 line4*/
+ .para9-line4{
+    font-family: "Mouse Memoirs",sans-serif;
+    color: rgb(205, 53, 2);
+    font-size: 2em;
+    font-weight: bold;
+    font-style: normal;
+ }
+  /*stlyinng para3 line3's span*/
+.para3-line3 span{
+   color: blanchedalmond;
+   font-weight: bolder;
+}
+
+
+
+
+
+    
+
+
+
+
+
